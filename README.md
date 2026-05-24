@@ -8,7 +8,7 @@ An intelligent resume analysis tool that extracts skills and calculates ATS (App
 -  ATS Score Generation with TF-IDF & Cosine Similarity
 -  Real-time Match Analysis & Recommendations
 
--  ## Live Demo Link
+## Live Demo Link
 https://huggingface.co/spaces/Parth3107/AI-Resume_Analyzer
 
 ## Tech Stack
